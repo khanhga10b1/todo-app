@@ -1,3 +1,5 @@
-public int sub(int a,int b){
+public static  sub(int a,int b) throws Exception {
+	if(a+b>Integer.MAX)
+		throw Exception("Ex: integer max");
 return a-b;
 }
