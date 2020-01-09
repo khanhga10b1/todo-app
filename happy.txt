@@ -1,0 +1,4 @@
+public boolean isHappy(int number){
+	//to do homework
+	return true;
+}
